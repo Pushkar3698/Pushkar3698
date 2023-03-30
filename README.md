@@ -1,16 +1,18 @@
-### Hi there 👋
+Hey there! 👋
+👨‍💻 I'm a MERN stack developer with experience building full-stack web applications using MongoDB, Express, React, and Node.js. My expertise lies in creating responsive, scalable applications with a focus on user experience and performance.
 
-<!--
-**Pushkar3698/Pushkar3698** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+💻 Here are some of the skills and technologies I'm proficient in:
 
-Here are some ideas to get you started:
+JavaScript
+HTML & CSS
+React
+Node.js
+Express
+MongoDB
+Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact
+🤝 I'm always interested in collaborating on new projects or discussing potential opportunities. Feel free to reach out to me on LinkedIn or Twitter.
+
+🚀 Let's build something awesome together!
